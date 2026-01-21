@@ -9,3 +9,6 @@ if (marks >= 90) {
 } else {
   console.log("Fail");
 }
+
+// This code assigns a grade based on the marks obtained.
+// If marks are 90 or above, it's Grade A; 75-89 is Grade B; 50-74 is Grade C; below 50 is Fail.
