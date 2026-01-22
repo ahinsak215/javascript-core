@@ -11,12 +11,17 @@ as part of my 100 Days of MERN journey.
 - if / else
 - switch case
 - Loops (for, while, do-while)
+- Function declaration, expression, arrow functions
+- Parameters and return
+- Global, function and block scope
+
 
 ## Practice
 
 - Basic JavaScript programs
 - Conditional logic programs
 - Loop-based problems
+- Functions & Block scope programs
 
 ## Goal
 
