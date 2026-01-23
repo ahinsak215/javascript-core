@@ -14,7 +14,9 @@ as part of my 100 Days of MERN journey.
 - Function declaration, expression, arrow functions
 - Parameters and return
 - Global, function and block scope
-
+- Basics and indexing
+- Array methods
+- Practice problems using loops
 
 ## Practice
 
@@ -22,6 +24,8 @@ as part of my 100 Days of MERN journey.
 - Conditional logic programs
 - Loop-based problems
 - Functions & Block scope programs
+- Array method examples
+- Practice problems like max value, sum, reverse
 
 ## Goal
 
