@@ -17,6 +17,11 @@ as part of my 100 Days of MERN journey.
 - Basics and indexing
 - Array methods
 - Practice problems using loops
+- Object creation and access
+- Reference behavior
+- Nested objects
+- Array of objects
+- Object methods
 
 ## Practice
 
@@ -26,6 +31,8 @@ as part of my 100 Days of MERN journey.
 - Functions & Block scope programs
 - Array method examples
 - Practice problems like max value, sum, reverse
+- Object manipulation programs
+- Real-world data structures
 
 ## Goal
 
