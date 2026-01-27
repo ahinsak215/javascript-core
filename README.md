@@ -22,6 +22,10 @@ as part of my 100 Days of MERN journey.
 - Nested objects
 - Array of objects
 - Object methods
+- map, filter, reduce
+- Data transformation patterns
+- Real-world use cases
+
 
 ## Practice
 
@@ -33,6 +37,12 @@ as part of my 100 Days of MERN journey.
 - Practice problems like max value, sum, reverse
 - Object manipulation programs
 - Real-world data structures
+- map, filter, reduce
+- Data transformation patterns
+- Real-world use cases
+- Data transformation programs
+- Real-world logic using reduce
+
 
 ## Goal
 
