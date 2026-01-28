@@ -25,6 +25,8 @@ as part of my 100 Days of MERN journey.
 - map, filter, reduce
 - Data transformation patterns
 - Real-world use cases
+- Array and object destructuring
+- Spread and rest operators
 
 
 ## Practice
@@ -42,7 +44,8 @@ as part of my 100 Days of MERN journey.
 - Real-world use cases
 - Data transformation programs
 - Real-world logic using reduce
-
+- Clean data extraction examples
+- Immutable array and object updates
 
 ## Goal
 
