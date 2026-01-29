@@ -27,6 +27,10 @@ as part of my 100 Days of MERN journey.
 - Real-world use cases
 - Array and object destructuring
 - Spread and rest operators
+- Execution context
+- Hoisting
+- Closures
+- Scope chain
 
 
 ## Practice
@@ -46,6 +50,8 @@ as part of my 100 Days of MERN journey.
 - Real-world logic using reduce
 - Clean data extraction examples
 - Immutable array and object updates
+- Hoisting examples
+- Counter and private data using closures
 
 ## Goal
 
