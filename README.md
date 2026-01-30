@@ -31,7 +31,10 @@ as part of my 100 Days of MERN journey.
 - Hoisting
 - Closures
 - Scope chain
-
+- Callbacks
+- Promises
+- async / await
+- Error handling
 
 ## Practice
 
@@ -52,6 +55,9 @@ as part of my 100 Days of MERN journey.
 - Immutable array and object updates
 - Hoisting examples
 - Counter and private data using closures
+- Async simulations
+- Promise-based logic
+- Cleaner async functions
 
 ## Goal
 
