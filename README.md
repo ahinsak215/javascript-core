@@ -35,6 +35,10 @@ as part of my 100 Days of MERN journey.
 - Promises
 - async / await
 - Error handling
+- HTTP methods and status codes
+- Fetch API (GET, POST)
+- Error handling
+- async/await with APIs
 
 ## Practice
 
@@ -58,6 +62,8 @@ as part of my 100 Days of MERN journey.
 - Async simulations
 - Promise-based logic
 - Cleaner async functions
+- GET and POST requests
+- Error-handled API calls
 
 ## Goal
 
