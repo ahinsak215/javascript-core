@@ -39,6 +39,11 @@ as part of my 100 Days of MERN journey.
 - Fetch API (GET, POST)
 - Error handling
 - async/await with APIs
+- Call stack
+- Event loop
+- Microtask vs macrotask
+- Browser APIs
+
 
 ## Practice
 
@@ -64,6 +69,9 @@ as part of my 100 Days of MERN journey.
 - Cleaner async functions
 - GET and POST requests
 - Error-handled API calls
+- Event loop examples
+- Async execution order programs
+
 
 ## Goal
 
