@@ -3,6 +3,9 @@
 This repository contains my JavaScript fundamentals practice
 as part of my 100 Days of MERN journey.
 
+📘 Journey Log:
+👉 https://github.com/ahinsak215/100-days-of-mern
+
 ## Topics Covered
 
 - Variables (var, let, const)
