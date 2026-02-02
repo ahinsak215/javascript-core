@@ -43,6 +43,10 @@ as part of my 100 Days of MERN journey.
 - Event loop
 - Microtask vs macrotask
 - Browser APIs
+- Selecting elements
+- Reading and updating text
+- Styling and class manipulation
+- Attributes handling
 
 
 ## Practice
@@ -71,6 +75,8 @@ as part of my 100 Days of MERN journey.
 - Error-handled API calls
 - Event loop examples
 - Async execution order programs
+- DOM selection examples
+- Dynamic text and style updates
 
 
 ## Goal
