@@ -50,6 +50,10 @@ as part of my 100 Days of MERN journey.
 - Reading and updating text
 - Styling and class manipulation
 - Attributes handling
+- Event listeners
+- Common browser events
+- Event object
+- Bubbling and delegation
 
 
 ## Practice
@@ -80,7 +84,9 @@ as part of my 100 Days of MERN journey.
 - Async execution order programs
 - DOM selection examples
 - Dynamic text and style updates
-
+- Browser events
+- Event listeners
+- Event bubbling and delegation
 
 ## Goal
 
