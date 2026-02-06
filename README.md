@@ -6,88 +6,183 @@ as part of my 100 Days of MERN journey.
 📘 Journey Log:
 👉 https://github.com/ahinsak215/100-days-of-mern
 
-## Topics Covered
+## 📌 JavaScript Topics Covered (with Folder Structure)
 
-- Variables (var, let, const)
-- Data Types
+### 1. Core Fundamentals
+**Folder:** `01-basics/`
+
+- Variables (`var`, `let`, `const`)
+- Data types (primitive & reference)
 - Operators
-- if / else
-- switch case
-- Loops (for, while, do-while)
-- Function declaration, expression, arrow functions
-- Parameters and return
-- Global, function and block scope
-- Basics and indexing
-- Array methods
-- Practice problems using loops
-- Object creation and access
-- Reference behavior
-- Nested objects
-- Array of objects
-- Object methods
-- map, filter, reduce
+- Conditional statements (`if / else`, `switch`)
+- Loops (`for`, `while`, `do-while`)
+- Functions (declaration, expression, arrow)
+- Parameters & return values
+- Scope (global, function, block)
+
+📁 Focus: Execution flow, logic building, and reusability
+
+---
+
+### 2. Arrays
+**Folder:** `02-arrays/`
+
+- Basics, indexing, and reference behavior
+- Core methods: `push`, `pop`, `shift`, `unshift`
+- `slice` vs `splice`
+- Advanced methods:
+  - `map`
+  - `filter`
+  - `reduce`
 - Data transformation patterns
-- Real-world use cases
-- Array and object destructuring
+- Real-world array problems
+
+📁 Focus: Clean, functional, and immutable data manipulation
+
+---
+
+### 3. Objects
+**Folder:** `03-objects/`
+
+- Object creation and access
+- Dot vs bracket notation
+- Nested objects
+- Arrays of objects
+- Object methods (`keys`, `values`, `entries`)
+- Reference behavior
+
+📁 Focus: Modeling real-world data (API-style structures)
+
+---
+
+### 4. Modern JavaScript (ES6+)
+**Folder:** `04-advanced-js/`
+
+- Arrow functions
+- Array & object destructuring
 - Spread and rest operators
+- Immutable updates
+
+📁 Focus: Writing clean, modern JavaScript
+
+---
+
+### 5. JavaScript Internals
+**Folder:** `04-advanced-js/`
+
 - Execution context
 - Hoisting
 - Closures
 - Scope chain
-- Callbacks
-- Promises
-- async / await
+- Call stack (intro)
+
+📁 Focus: Understanding how JavaScript works under the hood
+
+---
+
+### 6. Asynchronous JavaScript
+**Folder:** `05-async-js/`
+
+- Callbacks & callback hell
+- Promises & chaining
+- `async` / `await`
 - Error handling
-- HTTP methods and status codes
+- HTTP methods & status codes
 - Fetch API (GET, POST)
-- Error handling
-- async/await with APIs
-- Call stack
+- Async API handling
+
+📁 Focus: Real-world async flows used in frontend & backend
+
+---
+
+### 7. JavaScript Runtime & Browser APIs
+**Folder:** `05-async-js/`
+
 - Event loop
-- Microtask vs macrotask
-- Browser APIs
-- Selecting elements
-- Reading and updating text
-- Styling and class manipulation
+- Microtask vs macrotask queue
+- Browser APIs (`setTimeout`, `fetch`)
+- Async execution order
+
+📁 Focus: Non-blocking behavior and performance understanding
+
+---
+
+### 8. DOM Manipulation & Events
+**Folder:** `06-dom/`
+
+- DOM selection methods
+- Reading & updating content
+- Styling & class manipulation
 - Attributes handling
 - Event listeners
 - Common browser events
 - Event object
-- Bubbling and delegation
+- Event bubbling & delegation
 
+📁 Focus: Building interactive browser applications
 
-## Practice
+---
 
-- Basic JavaScript programs
-- Conditional logic programs
-- Loop-based problems
-- Functions & Block scope programs
-- Array method examples
-- Practice problems like max value, sum, reverse
-- Object manipulation programs
-- Real-world data structures
-- map, filter, reduce
-- Data transformation patterns
-- Real-world use cases
-- Data transformation programs
-- Real-world logic using reduce
-- Clean data extraction examples
-- Immutable array and object updates
-- Hoisting examples
-- Counter and private data using closures
-- Async simulations
-- Promise-based logic
-- Cleaner async functions
-- GET and POST requests
-- Error-handled API calls
-- Event loop examples
-- Async execution order programs
-- DOM selection examples
-- Dynamic text and style updates
-- Browser events
-- Event listeners
-- Event bubbling and delegation
+## 🚀 Mini Project – Todo App (Vanilla JavaScript)
 
-## Goal
+**Repository:** `js-todo-app`
 
-Build strong JavaScript foundations through hands-on coding.
+A fully functional **Todo Application** built using **plain JavaScript**
+to combine DOM manipulation, events, and core logic.
+
+### Features
+- Add new todos
+- Mark todos as completed
+- Delete todos
+- UI rendered from application state
+
+### Concepts Used
+- DOM manipulation
+- Event handling
+- Arrays & objects
+- Conditional rendering
+- State-driven UI updates
+
+📁 Repo Link:  
+👉 https://github.com/ahinsak215/js-todo-app
+
+📌 This project represents the practical application of all core JavaScript concepts.
+
+---
+
+## 🧠 Practice & Hands-on Work
+
+This repository includes extensive practice such as:
+- Core JavaScript logic programs
+- Conditional and loop-based problems
+- Array & object manipulation
+- Real-world data transformation using `map`, `filter`, `reduce`
+- Closure-based logic and private state
+- Asynchronous simulations & API handling
+- Event loop and execution order examples
+- DOM-based interactive behavior
+
+📁 Practice folders are included inside respective topic directories.
+
+---
+
+## JavaScript Coverage Summary
+- Fundamentals (variables, loops, functions)
+- Arrays & objects (real-world data)
+- ES6 features
+- Asynchronous JavaScript
+- Event loop & browser APIs
+- DOM manipulation & events
+- Mini Project (Todo App)
+
+---
+
+## 🎯 Goal
+
+To build a **strong JavaScript foundation** that enables:
+- Confident transition into React
+- Clean frontend logic
+- Reliable backend development
+- Clear explanation of JavaScript concepts in interviews
+
+➡️ **Next Step:** React (Day 16 onwards)
